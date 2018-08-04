@@ -188,18 +188,15 @@ img::-moz-selection {
     font-size: 1.25em;
     padding: 12px 0;
   }
-   #mainNav .navbar-toggler2 {
-  font-size: 16px;
-  right: 0;
-  padding: 8px;
-  text-transform: uppercase;
-  color: white;
-  border: 0;
-  background-color: #fed136;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  border-radius: .25rem;
-  text-decoration: none;
-}
+     #mainNav .navbar-toggler2 {
+         font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+         font-weight: 700;
+         background-color: #fed136;
+         border-color: #fed136;
+         font-size: 18px;
+         padding: 20px 40px;
+         text-transform: uppercase;
+     }
 }
 
 header.masthead {
