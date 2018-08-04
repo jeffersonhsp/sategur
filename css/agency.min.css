@@ -174,17 +174,16 @@ header.masthead {
   color: white;
   background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat !important;
-  background-size: cover !important;
   background-position: center center !important;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  -webkit-background-size: auto;
+  -moz-background-size: auto;
+  -o-background-size: auto;
+  background-size: auto;
 }
 
 header.masthead .intro-text {
   padding-top: 150px;
-  padding-bottom: 200px;
+  padding-bottom: 100px;
 }
 
 header.masthead .intro-text .intro-lead-in {
