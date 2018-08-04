@@ -194,7 +194,7 @@ header.masthead .intro-text .intro-lead-in {
   line-height: 22px;
   margin-bottom: 25px;
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  text-shadow: 0 0 3px #222, 0 0 5px #222;
+  text-shadow: 0 0 20px #000, 0 0 20px #000, 0 0 20px #000 , 0 0 2px #000;
 }
 
 header.masthead .intro-text .intro-heading {
@@ -203,7 +203,7 @@ header.masthead .intro-text .intro-heading {
   line-height: 50px;
   margin-bottom: 25px;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  text-shadow: 0 0 3px #222, 0 0 5px #222;
+  text-shadow: 0 0 20px #000, 0 0 20px #000, 0 0 20px #000 , 0 0 2px #000;
 }
 
 @media (min-width: 768px) {
