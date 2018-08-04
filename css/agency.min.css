@@ -121,7 +121,7 @@ img::-moz-selection {
 
 
 #mainNav .navbar-toggler2 {
-  font-size: 12px;
+  font-size: 13px;
   right: 0;
   padding: 11px;
   text-transform: uppercase;
@@ -130,6 +130,7 @@ img::-moz-selection {
   background-color: #fed136;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   border-radius: .25rem;
+  text-decoration: none;
 }
 
 
