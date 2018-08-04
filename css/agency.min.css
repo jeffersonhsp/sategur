@@ -160,18 +160,7 @@ img::-moz-selection {
 }
 
 @media (min-width: 992px) {
-  #mainNav .navbar-toggler2 {
-  font-size: 13px;
-  right: 0;
-  padding: 11px;
-  text-transform: uppercase;
-  color: white;
-  border: 0;
-  background-color: #fed136;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  border-radius: .25rem;
-  text-decoration: none;
-}
+
   #mainNav {
     padding-top: 25px;
     padding-bottom: 25px;
@@ -199,6 +188,18 @@ img::-moz-selection {
     font-size: 1.25em;
     padding: 12px 0;
   }
+   #mainNav .navbar-toggler2 {
+  font-size: 13px;
+  right: 0;
+  padding: 11px;
+  text-transform: uppercase;
+  color: white;
+  border: 0;
+  background-color: #fed136;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  border-radius: .25rem;
+  text-decoration: none;
+}
 }
 
 header.masthead {
