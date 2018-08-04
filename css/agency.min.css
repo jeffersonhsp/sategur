@@ -121,9 +121,9 @@ img::-moz-selection {
 
 
 #mainNav .navbar-toggler2 {
-  font-size: 16px;
+  font-size: 13px;
   right: 0;
-  padding: 8px;
+  padding: 11px;
   text-transform: uppercase;
   color: white;
   border: 0;
@@ -189,9 +189,9 @@ img::-moz-selection {
     padding: 12px 0;
   }
    #mainNav .navbar-toggler2 {
-  font-size: 13px;
+  font-size: 16px;
   right: 0;
-  padding: 11px;
+  padding: 8px;
   text-transform: uppercase;
   color: white;
   border: 0;
