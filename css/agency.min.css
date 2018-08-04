@@ -173,7 +173,6 @@ header.masthead {
   text-align: center;
   color: white;
   background-image: url("../img/header-bg.jpg");
-    background-image:url("../img/back.jpg")!important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
   background-position: center center !important;
