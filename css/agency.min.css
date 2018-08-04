@@ -175,7 +175,10 @@ header.masthead {
   background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat !important;
   background-position: center center !important;
-  background-size:100% contain;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 header.masthead .intro-text {
