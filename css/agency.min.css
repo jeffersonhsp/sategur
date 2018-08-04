@@ -23,6 +23,7 @@ a.a {
     padding: 5px;
     border: 1px solid blue;    
     background-color: yellow; 
+    text-align: left;
 }
 
 a:hover {
