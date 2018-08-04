@@ -179,6 +179,8 @@ header.masthead {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  padding-bottom: 100px;
+  padding-top: 100px;
 }
 
 header.masthead .intro-text {
