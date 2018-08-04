@@ -115,7 +115,25 @@ img::-moz-selection {
   border: 0;
   background-color: #fed136;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ 
 }
+
+
+
+#mainNav .navbar-toggler2 {
+  font-size: 12px;
+  right: 0;
+  padding: 13px;
+  text-transform: uppercase;
+  color: white;
+  border: 0;
+  background-color: #fed136;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+
+
+
 
 #mainNav .navbar-brand {
   color: #fed136;
