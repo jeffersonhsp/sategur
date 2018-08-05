@@ -16,8 +16,6 @@ a {
   color: #fed136;
 }
 
-
-
 a:hover {
   color: #fec503;
 }
@@ -37,7 +35,7 @@ h6 {
 }
 
 section {
-  padding: 0 100px;
+  padding: 100px 0;
 }
 
 section h2.section-heading {
@@ -117,33 +115,7 @@ img::-moz-selection {
   border: 0;
   background-color: #fed136;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
- 
 }
-
-
-
-#mainNav .navbar-toggler2 {
-  font-size: 16px;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  
-  padding: 11px;
-  text-transform: uppercase;
-  color: white;
-  
-  border-left: 1px;
-  border-right: 1px;
-  background-color: #fed136;
-  border-radius: .25rem;
-  border-color: #fed136;
-  
-  text-decoration: none;
-  text-transform: uppercase;
-  text-shadow: 0 0 1px #000, 0 0 3px #000;
-}
-
-
-
-
 
 #mainNav .navbar-brand {
   color: #fed136;
@@ -168,7 +140,6 @@ img::-moz-selection {
 }
 
 @media (min-width: 992px) {
-
   #mainNav {
     padding-top: 25px;
     padding-bottom: 25px;
@@ -196,23 +167,19 @@ img::-moz-selection {
     font-size: 1.25em;
     padding: 12px 0;
   }
-     #mainNav .navbar-toggler2 {
-
-     }
 }
 
 header.masthead {
   text-align: center;
   color: white;
   background-image: url("../img/header-bg.jpg");
-  background-repeat: no-repeat !important;
-  background-position: center center !important;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  padding-bottom: 100px;
-  padding-top: 100px;
 }
 
 header.masthead .intro-text {
@@ -221,23 +188,19 @@ header.masthead .intro-text {
 }
 
 header.masthead .intro-text .intro-lead-in {
-  color:#fed136;
   font-size: 22px;
   font-style: italic;
   line-height: 22px;
   margin-bottom: 25px;
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-      text-shadow: 0 0 1px #000, 0 0 3px #000, 0 0 5px #000, 0 0 10px #000 , 0 0 15px #000, 0 0 20px #000, 0 0 30px #000,0 0 40px #000;
 }
 
 header.masthead .intro-text .intro-heading {
-  color:#fed136;
   font-size: 50px;
   font-weight: 700;
   line-height: 50px;
   margin-bottom: 25px;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-      text-shadow: 0 0 1px #000, 0 0 3px #000, 0 0 5px #000, 0 0 10px #000 , 0 0 15px #000, 0 0 20px #000, 0 0 30px #000,0 0 40px #000;
 }
 
 @media (min-width: 768px) {
