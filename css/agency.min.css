@@ -19,7 +19,7 @@ a {
 a.a {
     display: inline; /* the default for span */
     height: 50px;
-    padding: 5px;
+    padding: 2px;
     border: 1px solid blue;    
     background-color: yellow; 
     text-align: left;
@@ -203,8 +203,8 @@ img::-moz-selection {
          font-weight: 700;
          background-color: #fed136;
          border-color: #fed136;
-         font-size: 18px;
-         padding: 20px 40px;
+         font-size: 16px;
+         padding: 2px 4px;
          text-transform: uppercase;
          text-shadow: 0 0 1px #000, 0 0 3px #000;
      }
