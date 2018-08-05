@@ -141,6 +141,15 @@ img::-moz-selection {
   border-radius: .25rem;
   text-decoration: none;
   text-shadow: 0 0 1px #000, 0 0 3px #000;
+  
+           font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+         font-weight: 700;
+         background-color: #fed136;
+         border-color: #fed136;
+         font-size: 16px;
+         padding: 2px 4px;
+         text-transform: uppercase;
+         text-shadow: 0 0 1px #000, 0 0 3px #000;
 }
 
 
@@ -199,14 +208,7 @@ img::-moz-selection {
     padding: 12px 0;
   }
      #mainNav .navbar-toggler2 {
-         font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-         font-weight: 700;
-         background-color: #fed136;
-         border-color: #fed136;
-         font-size: 16px;
-         padding: 2px 4px;
-         text-transform: uppercase;
-         text-shadow: 0 0 1px #000, 0 0 3px #000;
+
      }
 }
 
