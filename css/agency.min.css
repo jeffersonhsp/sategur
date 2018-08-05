@@ -173,13 +173,14 @@ header.masthead {
   text-align: center;
   color: white;
   background-image: url("../img/header-bg.jpg");
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center center;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  padding-bottom: 100px;
+  padding-top: 100px;
 }
 
 header.masthead .intro-text {
@@ -188,11 +189,13 @@ header.masthead .intro-text {
 }
 
 header.masthead .intro-text .intro-lead-in {
+  color:#fed136;
   font-size: 22px;
   font-style: italic;
   line-height: 22px;
   margin-bottom: 25px;
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      text-shadow: 0 0 1px #000, 0 0 3px #000, 0 0 5px #000, 0 0 10px #000 , 0 0 15px #000, 0 0 20px #000, 0 0 30px #000,0 0 40px #000;
 }
 
 header.masthead .intro-text .intro-heading {
