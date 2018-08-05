@@ -16,14 +16,7 @@ a {
   color: #fed136;
 }
 
-a.a {
-    display: inline; /* the default for span */
-    height: 50px;
-    padding: 2px;
-    border: 1px solid blue;    
-    background-color: yellow; 
-    text-align: left;
-}
+
 
 a:hover {
   color: #fec503;
