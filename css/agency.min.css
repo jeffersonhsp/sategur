@@ -195,7 +195,7 @@ header.masthead .intro-text .intro-lead-in {
   line-height: 22px;
   margin-bottom: 25px;
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-      text-shadow: 0 0 1px #000, 0 0 3px #000, 0 0 5px #000, 0 0 10px #000 , 0 0 15px #000, 0 0 20px #000, 0 0 30px #000,0 0 40px #000;
+  text-shadow: 0 0 1px #000, 0 0 3px #000, 0 0 5px #000, 0 0 10px #000 , 0 0 15px #000, 0 0 20px #000, 0 0 30px #000,0 0 40px #000;
 }
 
 header.masthead .intro-text .intro-heading {
@@ -203,9 +203,9 @@ header.masthead .intro-text .intro-heading {
   font-weight: 700;
   line-height: 50px;
   margin-bottom: 25px;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color:#fed136;
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-      text-shadow: 0 0 1px #000, 0 0 3px #000, 0 0 5px #000, 0 0 10px #000 , 0 0 15px #000, 0 0 20px #000, 0 0 30px #000,0 0 40px #000;
+  text-shadow: 0 0 1px #000, 0 0 3px #000, 0 0 5px #000, 0 0 10px #000 , 0 0 15px #000, 0 0 20px #000, 0 0 30px #000,0 0 40px #000;
 }
 
 @media (min-width: 768px) {
